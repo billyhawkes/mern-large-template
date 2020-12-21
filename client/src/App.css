@@ -1,0 +1,36 @@
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+/* Defaults */
+:root {
+    --main-color: #22262a;
+    --back-color: #f1f1f1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+/* Links */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+/* View Container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Buttons */
+button:hover,
+input[type="submit"] {
+    cursor: pointer;
+}

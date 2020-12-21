@@ -1,0 +1,3 @@
+### MERN Template - Large Projects
+
+---
